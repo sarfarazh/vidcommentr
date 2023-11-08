@@ -5,3 +5,4 @@ opencv-python-headless==4.5.5.62
 requests==2.27.1
 streamlit==1.5.1
 numpy==1.22.2
+openai==1.1.2
